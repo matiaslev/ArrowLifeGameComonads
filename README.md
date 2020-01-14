@@ -7,9 +7,11 @@ but using arrow + compose in place of bow - SwiftUi
 # Objectives
 
 - [X] write bow logic with arrow
-- [ ] write SwiftUi logic with compose
+- [X] write SwiftUi logic with compose
+      repo: https://github.com/matiaslev/ArrowComposeLifeGame
 - [ ] write property based tests
 
 # Current Bloquer
-I am not seeing the generated code for the type classes on Android. 
+- [X] I am not seeing the generated code for the type classes on Android.
+      The problem was in using compose with kapt. And the workaround used is separete the code that needs kapt from compose in another module.
 
