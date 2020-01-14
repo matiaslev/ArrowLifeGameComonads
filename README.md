@@ -10,6 +10,7 @@ but using arrow + compose in place of bow - SwiftUi
 - [X] write SwiftUi logic with compose
       repo: https://github.com/matiaslev/ArrowComposeLifeGame
 - [ ] write property based tests
+- [ ] add more patterns
 
 # Current Bloquer
 - [X] I am not seeing the generated code for the type classes on Android.
